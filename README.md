@@ -10,6 +10,5 @@ steps to run:-
  2. open the terminal  
 3. run the command 
       npm install
-( vse modules saath mai daal rha hu parr dubara Re-install krne mai kya hi jayega tumhara lol..)
 4. Open  the local host:3000 in any browser
 5. enter the username and room name
